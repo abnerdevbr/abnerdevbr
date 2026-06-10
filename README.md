@@ -18,7 +18,7 @@ Sou desenvolvedor com experiência em desenvolvimento de APIs robustas, integra�
 
 ---
 
-## 💻 Stack Tecnológico
+## Stack
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,7 +48,7 @@ Sou desenvolvedor com experiência em desenvolvimento de APIs robustas, integra�
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Sou desenvolvedor com experiência em desenvolvimento de APIs robustas, integra�
 
 ---
 
-## 📫 Conecte-se Comigo
+## Conecte-se Comigo
 
 - **GitHub**: [@abnerdevbr](https://github.com/abnerdevbr)
 - **Website**: [Botnex Sistemas](https://botnexsistemas.com)
