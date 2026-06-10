@@ -11,7 +11,6 @@ Sou desenvolvedor com experiência em desenvolvimento de APIs robustas e integra
 - **Desenvolvimento Backend** - Criação de APIs RESTful e integração de serviços
 - **Integração de APIs** - Especialista em WhatsApp, automação e comunicação
 - **Arquitetura de Software** - Boas práticas e padrões de design
-- **Open Source** - Contribuidor ativo e colaborador em projetos comunitários
 
 ---
 
@@ -34,15 +33,6 @@ Sou desenvolvedor com experiência em desenvolvimento de APIs robustas e integra
 
 ---
 
-## 🏆 Projetos em Destaque
-
-### 🔗 [Evolution API](https://github.com/abnerdevbr/evolution-api)
-Uma API open-source para integração com WhatsApp. Permite automatizar comunicações e integrar o WhatsApp em suas aplicações.
-
-[Visite o site →](https://evoapicloud.com)
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
@@ -56,7 +46,6 @@ Uma API open-source para integração com WhatsApp. Permite automatizar comunica
 ## 🤝 Como Colaborar
 
 Estou sempre aberto a:
-- Colaborações em projetos open source
 - Feedback e sugestões de melhorias
 - Parcerias técnicas
 
@@ -67,6 +56,7 @@ Estou sempre aberto a:
 - **GitHub**: [@abnerdevbr](https://github.com/abnerdevbr)
 - **Website**: [Botnex Sistemas](https://botnexsistemas.com)
 - **Linkedin**: [Abnerdevbr](https://www.linkedin.com/in/abnerdevbr)
+
 ---
 
 <div align="center">
