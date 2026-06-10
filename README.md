@@ -32,6 +32,9 @@ Sou desenvolvedor com experiÃªncia em desenvolvimento de APIs robustas, integraÃ
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-0D0221?style=for-the-badge&logo=coolify&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution%20API-4CAF50?style=for-the-badge&logo=api&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F2937?style=for-the-badge&logo=chatwoot&logoColor=white)
 
 ---
 
