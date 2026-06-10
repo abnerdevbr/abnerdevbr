@@ -1,7 +1,4 @@
-# 👋 Olá! Eu sou Abner
-
-Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por criar soluções inovadoras e de alto impacto.
-
+# 👋 Bom! Eu sou Abner
 ---
 
 ## 🚀 Sobre Mim
