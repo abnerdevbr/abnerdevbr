@@ -37,8 +37,8 @@ Sou desenvolvedor com experiência em desenvolvimento de APIs robustas e integra
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=abnerdevbr&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerdevbr&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560)
-
 </div>
 
 ---
