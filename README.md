@@ -2,9 +2,10 @@
 
 ## Sobre Mim
 
-Sou desenvolvedor com experiência em desenvolvimento de APIs robustas e integração de sistemas. Tenho forte interesse em:
+Sou desenvolvedor com experiência em desenvolvimento de APIs robustas, integração de sistemas e desenvolvimento mobile nativo. Tenho forte interesse em:
 
 - **Desenvolvimento Backend** - Criação de APIs RESTful e integração de serviços
+- **Desenvolvimento Mobile Nativo** - Android com Java, iOS com Swift e aplicações com C#
 - **Integração de APIs** - Especialista em WhatsApp, automação e comunicação
 - **Arquitetura de Software** - Boas práticas e padrões de design
 
@@ -16,11 +17,16 @@ Sou desenvolvedor com experiência em desenvolvimento de APIs robustas e integra
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Frameworks & Bibliotecas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Ferramentas & Plataformas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
