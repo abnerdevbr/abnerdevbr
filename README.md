@@ -1,3 +1,9 @@
+<div align="center">
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abnerdevbr.abnerdevbr&left_color=blue&right_color=green)
+
+</div>
+
 > 👋 Bom! Eu sou Abner.
 
 ## Sobre Mim
