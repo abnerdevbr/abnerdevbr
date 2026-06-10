@@ -1,9 +1,3 @@
-<div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abnerdevbr.abnerdevbr&left_color=blue&right_color=green)
-
-</div>
-
 > 👋 Hi! I'm Abner.
 
 ## About Me
@@ -70,5 +64,9 @@ I'm a developer with experience in robust API development, systems integration, 
 **⭐ Thank you for visiting my profile!**
 
 Made with ❤️ by [@abnerdevbr](https://github.com/abnerdevbr)
+<div align="center">
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abnerdevbr.abnerdevbr&left_color=blue&right_color=green)
+
+</div>
 </div>
