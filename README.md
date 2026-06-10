@@ -1,7 +1,6 @@
-# 👋 Bom! Eu sou Abner
----
+> 👋 Bom! Eu sou Abner.
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou desenvolvedor com experiência em desenvolvimento de APIs robustas e integração de sistemas. Tenho forte interesse em:
 
@@ -36,14 +35,6 @@ Sou desenvolvedor com experiência em desenvolvimento de APIs robustas e integra
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=abnerdevbr&theme=dark)
 </div>
-
----
-
-## 🤝 Como Colaborar
-
-Estou sempre aberto a:
-- Feedback e sugestões de melhorias
-- Parcerias técnicas
 
 ---
 
