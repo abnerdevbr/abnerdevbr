@@ -6,6 +6,7 @@ Sou desenvolvedor com experiência em desenvolvimento de APIs robustas, integra�
 
 - **Desenvolvimento Backend** - Criação de APIs RESTful e integração de serviços
 - **Desenvolvimento Mobile Nativo** - Android com Java, iOS com Swift e aplicações com C#
+- **Desenvolvimento Mobile com Expo** - Aplicações cross-platform com React Native
 - **Integração de APIs** - Especialista em WhatsApp, automação e comunicação
 - **Arquitetura de Software** - Boas práticas e padrões de design
 
@@ -25,6 +26,8 @@ Sou desenvolvedor com experiência em desenvolvimento de APIs robustas, integra�
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
