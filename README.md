@@ -62,8 +62,7 @@ Full Stack Software Engineer with experience building scalable systems, SaaS pla
 ## Connect With Me
 
 - **GitHub**: [@abnerdevbr](https://github.com/abnerdevbr)
-- **Website**: [Botnex Sistemas](https://botnexsistemas.com)
-- **Linkedin**: [Abnerdevbr](https://www.linkedin.com/in/abnerdevbr)
+- **Linkedin**: [Abnerluizdev](https://www.linkedin.com/in/abnerluizdev)
 
 ---
 
