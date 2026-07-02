@@ -2,13 +2,13 @@
 
 ## About Me
 
-I'm a developer with experience in robust API development, systems integration, and native mobile development. I have a strong interest in:
+Full Stack Software Engineer with experience building scalable systems, SaaS platforms, and complex integrations. I currently focus on **Node.js, TypeScript, Next.js and Python**, building real-time applications and AI-driven products. My background spans:
 
-- **Backend Development** - Creating RESTful APIs and service integration
-- **Native Mobile Development** - Android with Java, iOS with Swift, and applications with C#
-- **Mobile Development with Expo** - Cross-platform applications with React Native
-- **API Integration** - Specialist in WhatsApp, automation, and communication
-- **Software Architecture** - Best practices and design patterns
+- **Backend & API Development** - RESTful APIs, WebSocket, Server-Sent Events (SSE), and service integrations
+- **SaaS Architecture** - Multi-tenant systems, authentication, and security best practices
+- **Applied AI** - LLM integration (OpenAI, Anthropic), chatbot flows, intent classification, and automation with N8N
+- **Automation & RPA** - Python-based automation with OCR and Computer Vision
+- **Mobile Development** - Native Android (Java/Kotlin), iOS (Swift), and cross-platform apps with React Native/Expo
 
 ---
 
